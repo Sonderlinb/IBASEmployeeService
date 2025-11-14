@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IBASEmployeeService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+089cb90b8ad9c71477d0a24d5ad8a488a16f0d94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb62e293344dc3f29eb043ee6e12370cd9c874d")]
 [assembly: System.Reflection.AssemblyProductAttribute("IBASEmployeeService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IBASEmployeeService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
